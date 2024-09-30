@@ -38,7 +38,7 @@ Soy Carlo Iván Quezada Venegas, técnico en programación con experiencia en el
 - **Resultado**: Automatización de encuestas para ayudar a la recopilación de información para [detección de la depresión en textos mediante el uso de transformers](https://www.facebook.com/cicipnoficial/posts/pfbid0HuAACTrbreHEs1P75EtiTwpbzHGVMdmBihd7t2AXgoCyPe4hkvMCHgZg6AZii7Pdl?locale=es_LA), proyecto del Maestro en Ciencias Abdiel Reyes Vera
 
 ## Logros Académicos y Certificaciones
-- **Título**: [Técnico en Programación, CECyT 9 "Juan de Dios Bátiz"](https://drive.google.com/drive/u/0/folders/1b0iypYZLBcdqvqGYpRrijLll_oyOduTz).
+- **Título**: [Técnico en Programación, CECyT 9 "Juan de Dios Bátiz"](https://drive.google.com/file/d/1G5q6m42oK8xnnSYU_iW0A3BdcKRncnZK/view?usp=sharing).
 - **Examen de Admisión**: Ingeniería en Inteligencia Artificial, ESCOM-IPN. En espera de resultados...
 
 - ## Contacto
