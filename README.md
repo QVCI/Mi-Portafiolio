@@ -26,7 +26,7 @@ Soy Carlo Iván Quezada Venegas, técnico en programación con experiencia en el
 
 ## Proyectos Destacados
 
-### Mi Movilidad - Proyecto de Titulación
+### [Mi Movilidad - Proyecto de Titulación](./Proyecto%20de%20Titulación/)
 - **Descripción**: Aplicación móvil para optimizar rutas en el transporte público de la Ciudad de México. Utiliza el algoritmo de Dijkstra para calcular rutas óptimas en tiempo real, además de geolocalización para compartir ubicación en sistemas (1:1) y (1:M).
 - **Tecnologías**: Java, Firebase, Google Maps API, MySQL, Spring Boot.
 - **Resultado**: Implementación exitosa con integración de geolocalización y mejoras en la movilidad urbana. Consulta de mapas, funcionamiento con conexión y sin conexión. [Enlace a la página web del proyecto](https://mitransporte-768d7.web.app), desde donde se puede descargar el proyecto.
