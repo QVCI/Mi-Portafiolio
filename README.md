@@ -32,7 +32,7 @@ Soy Carlo Iván Quezada Venegas, técnico en programación con experiencia en el
 - **Resultado**: Implementación exitosa con integración de geolocalización y mejoras en la movilidad urbana. Consulta de mapas, funcionamiento con conexión y sin conexión. [Enlace a la página web del proyecto](https://mitransporte-768d7.web.app), desde donde se puede descargar el proyecto.
 
 
-### Chatbot para Servicio Social
+### [Chatbot para Servicio Social](./Chatbot/)
 - **Descripción**: Chatbot desarrollado para automatizar respuestas y gestionar interacciones con usuarios. Utiliza MySQL para el almacenamiento de datos y Spring Boot para sincronizar los datos con Firestore database.
 - **Tecnologías**: Java, Spring Boot, MySQL, Firebase, Pm2, Node.js, JavaScrpt
 - **Resultado**: Automatización de encuestas para ayudar a la recopilación de información para [detección de la depresión en textos mediante el uso de transformers](https://www.facebook.com/cicipnoficial/posts/pfbid0HuAACTrbreHEs1P75EtiTwpbzHGVMdmBihd7t2AXgoCyPe4hkvMCHgZg6AZii7Pdl?locale=es_LA), proyecto del Maestro en Ciencias Abdiel Reyes Vera
