@@ -22,3 +22,7 @@ Al igual que un [articulo de investigación](Documento%20Para%20Concurso.pdf) pa
 ![Jira](https://img.shields.io/badge/Jira-Project_Management-blue)
 ![Postman](https://img.shields.io/badge/Postman-API-orange)
 
+## Guía Rápida
+[Base de Datos MySQL](./Proyecto/BD)
+[End Point para peticiones http (Sistema de anuncios)](./Proyecto/mitransporte/src/main/java/com/softux/mitransporte/)
+[Aplicación Android](./Proyecto/MITransporteOnline/app/src/main/java/com/example/mitransporteonline/)
