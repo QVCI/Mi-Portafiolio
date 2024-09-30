@@ -33,3 +33,13 @@ Soy Carlo Iván Quezada Venegas, técnico en programación con experiencia en el
 - **Tecnologías**: Java, Spring Boot, MySQL, Firebase, Pm2, Node.js, JavaScrpt
 - **Resultado**: Automatización de encuestas para ayudar a la recopilación de información para [detección de la depresión en textos mediante el uso de transformers](https://www.facebook.com/cicipnoficial/posts/pfbid0HuAACTrbreHEs1P75EtiTwpbzHGVMdmBihd7t2AXgoCyPe4hkvMCHgZg6AZii7Pdl?locale=es_LA), proyecto del Maestro en Ciencias Abdiel Reyes Vera
 
+## Logros Académicos y Certificaciones
+- **Título**: [Técnico en Programación, CECyT 9 "Juan de Dios Bátiz"](https://drive.google.com/drive/u/0/folders/1b0iypYZLBcdqvqGYpRrijLll_oyOduTz).
+- **Examen de Admisión**: Ingeniería en Inteligencia Artificial, ESCOM-IPN. En espera de resultados...
+
+- ## Contacto
+- Email: carloivan2910@gmail.com
+- LinkedIn: [Carlo Iván Quezada Venegas](https://www.linkedin.com/in/carlo-iván-quezada-venegas-24440b305/)
+
+
+
