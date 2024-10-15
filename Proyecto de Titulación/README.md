@@ -1,6 +1,6 @@
 ## Introducción
 Partes del proyecto de titulación y [tesina](Tesina.pdf).
-Al igual que un [articulo de investigación](Documento%20Para%20Concurso.pdf) para el [15 Premio Nacional de Transporte urbano y Movilidad 2024](https://amtm.org.mx/15-premio/)
+Al igual que el [Articulo de investigación](Documento%20Para%20Concurso.pdf) con el que mi equipo y yo ganamos el [15 Premio Nacional de Transporte urbano y Movilidad 2024](https://amtm.org.mx/15-premio/), en la categoría de [Proyecto de Transporte y Movilidad Urbana](https://www.movilidad3.com.mx/2024/10/14/ganadores-del-15-premio-nacional-de-transporte-urbano-y-movilidad-2024-de-la-amtm/).
 
 ## Habilidades Técnicas
 ![Java](https://img.shields.io/badge/Java-17-orange) 
