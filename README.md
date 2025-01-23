@@ -1,5 +1,5 @@
 ## Introducción
-Soy Carlo Iván Quezada Venegas, técnico en programación con experiencia en el desarrollo de aplicaciones móviles y backend. He trabajado con una variedad de tecnologías como Java, Spring Boot, Firebase, y más. Actualmente, busco oportunidades remotas para continuar aplicando y ampliando mis habilidades.
+Soy Carlo Iván Quezada Venegas, técnico en programación y actualmente estudiante de Ingeniería en Inteligencia Artificial, con experiencia en el desarrollo de aplicaciones móviles y backend. He trabajado con una variedad de tecnologías como Java, Spring Boot, Firebase, y más. Actualmente, busco oportunidades remotas para continuar aplicando y ampliando mis habilidades.
 
 ## Habilidades Técnicas
 ![Java](https://img.shields.io/badge/Java-17-orange) 
@@ -32,7 +32,7 @@ Soy Carlo Iván Quezada Venegas, técnico en programación con experiencia en el
 - **Resultado**: Implementación exitosa con integración de geolocalización y mejoras en la movilidad urbana. Consulta de mapas, funcionamiento con conexión y sin conexión. [Enlace a la página web del proyecto](https://mitransporte-768d7.web.app), desde donde se puede descargar el proyecto.
 
 
-### [Chatbot para Servicio Social](./Chatbot/)
+### [Proyecto en vinculación con el CIC (Chatbot)](./Chatbot/)
 - **Descripción**: Chatbot desarrollado para automatizar respuestas y gestionar interacciones con usuarios. Utiliza MySQL para el almacenamiento de datos y Spring Boot para sincronizar los datos con Firestore database.
 - **Tecnologías**: Java, Spring Boot, MySQL, Firebase, Pm2, Node.js, JavaScrpt
 - **Resultado**: Automatización de encuestas para ayudar a la recopilación de información para [detección de la depresión en textos mediante el uso de transformers](https://www.facebook.com/cicipnoficial/posts/pfbid0HuAACTrbreHEs1P75EtiTwpbzHGVMdmBihd7t2AXgoCyPe4hkvMCHgZg6AZii7Pdl?locale=es_LA), proyecto del Maestro en Ciencias Abdiel Reyes Vera
@@ -40,7 +40,6 @@ Soy Carlo Iván Quezada Venegas, técnico en programación con experiencia en el
 ## Logros y Certificaciones
 - **Título**: [Técnico en Programación, CECyT 9 "Juan de Dios Bátiz"](https://drive.google.com/file/d/1G5q6m42oK8xnnSYU_iW0A3BdcKRncnZK/view?usp=sharing).
 - **15° premio nacional de transporte urbano y movilidad 2024 de la ATMT** [Proyecto de Transporte y Movilidad Urbana](https://www.movilidad3.com.mx/2024/10/14/ganadores-del-15-premio-nacional-de-transporte-urbano-y-movilidad-2024-de-la-amtm/).
-- **Examen de Admisión**: Ingeniería en Inteligencia Artificial, ESCOM-IPN. En espera de resultados...
 
 - ## Contacto
 - Email: carloivan2910@gmail.com
