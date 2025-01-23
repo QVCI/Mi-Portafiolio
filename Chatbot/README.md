@@ -1,5 +1,5 @@
 ## Introducción
-SPartes del proyecto de Servicio Social.
+Partes del proyecto en vinculación con el CIC.
 ## Habilidades Técnicas
 ![Java](https://img.shields.io/badge/Java-17-orange) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.3-brightgreen) 
